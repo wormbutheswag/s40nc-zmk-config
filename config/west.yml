@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/kylemccreery
   projects:
     - name: zmk
-      remote: kylemccreery
+      remote: zmkfirmware
       revision: s40nc
       import: app/west.yml
   self:
